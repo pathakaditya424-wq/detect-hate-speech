@@ -27,6 +27,5 @@ This limitation exists due to dataset overlap and can be improved in the future 
    cd detect-hate-speech
 pip install -r requirements.txt
 streamlit run app.py
-<img width="1920" height="1080" alt="Screenshot (56)" src="https://github.com/user-attachments/assets/feb40800-dd4e-4b25-af89-b816d9b92e4c" />
-<img width="1920" height="1080" alt="Screenshot (55)" src="https://github.com/user-attachments/assets/259d7e6c-720a-45a5-98d9-93754ac4063c" />
-<img width="1920" height="1008" alt="Screenshot 2025-08-22 174832" src="https://github.com/user-attachments/assets/bb347cef-37e0-4f67-aac4-7e55178552e6" />
+<img width="1920" height="896" alt="Screenshot (56)" src="https://github.com/user-attachments/assets/39b76956-7a27-4c49-a1bd-15b3aac39a02" />
+<img width="1920" height="893" alt="Screenshot (55)" src="https://github.com/user-attachments/assets/8a02d6ee-19ab-4580-bf3a-ed89d3b1501c" />
